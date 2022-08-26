@@ -1,1 +1,2 @@
 Corrección de mi segundo archivo usando git
+segunda lina de mi archivo usando git
